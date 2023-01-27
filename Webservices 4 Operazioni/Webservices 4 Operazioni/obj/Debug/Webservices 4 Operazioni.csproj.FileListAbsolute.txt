@@ -1,0 +1,68 @@
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Webservices 4 Operazioni.exe.config
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Webservices 4 Operazioni.exe
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Webservices 4 Operazioni.pdb
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.csproj.AssemblyReference.cache
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices_4_Operazioni.Form1.resources
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices_4_Operazioni.Properties.Resources.resources
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.csproj.GenerateResource.cache
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.csproj.CoreCompileInputs.cache
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.exe
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.pdb
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Newtonsoft.Json.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Buffers.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Memory.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Net.Http.Json.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Text.Json.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.ValueTuple.dll
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Newtonsoft.Json.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Buffers.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Memory.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Net.Http.Json.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Text.Json.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.ValueTuple.xml
+C:\Users\previtali.18180\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.csproj.CopyComplete
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Webservices 4 Operazioni.exe.config
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Webservices 4 Operazioni.exe
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Webservices 4 Operazioni.pdb
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Newtonsoft.Json.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Buffers.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Memory.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Net.Http.Json.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Text.Json.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.ValueTuple.dll
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\Newtonsoft.Json.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Buffers.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Memory.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Net.Http.Json.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Text.Json.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\bin\Debug\System.ValueTuple.xml
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.csproj.AssemblyReference.cache
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices_4_Operazioni.Form1.resources
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices_4_Operazioni.Properties.Resources.resources
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.csproj.GenerateResource.cache
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.csproj.CoreCompileInputs.cache
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.csproj.CopyComplete
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.exe
+C:\Users\giack\Desktop\Webservices 4 Operazioni\Webservices 4 Operazioni\obj\Debug\Webservices 4 Operazioni.pdb
